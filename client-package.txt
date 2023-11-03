@@ -1,0 +1,11 @@
+axios https://www.npmjs.com/package/axios
+sweetalert2 https://www.npmjs.com/package/sweetalert2
+react-redux https://www.npmjs.com/package/react-redux
+@reduxjs/toolkit https://www.npmjs.com/package/@reduxjs/toolkit
+tailwindcss https://www.npmjs.com/package/tailwindcss
+react-icons https://www.npmjs.com/package/react-icons
+react-router-dom https://www.npmjs.com/package/react-router-dom
+@jwplayer/jwplayer-react https://www.npmjs.com/package/@jwplayer/jwplayer-react
+daisyui https://www.npmjs.com/package/daisyui
+firebase https://www.npmjs.com/package/firebase
+react-helmet-async https://www.npmjs.com/package/react-helmet-async
